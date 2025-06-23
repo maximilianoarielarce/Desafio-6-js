@@ -1,0 +1,1 @@
+Agregamos un archivo txt para poder hacer el commit correspondiente ya que en el primer commit se cargo todo, no nos dimos cuenta de ir haciendo los commit por partes a medida que hacíamos los ejercicios
